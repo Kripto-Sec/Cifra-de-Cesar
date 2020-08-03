@@ -5,7 +5,7 @@ ROTA = 13
 print '###################################'
 print '#         CIFRA DE CESAR          #' 
 print '#                                 #'
-print '#https://github.com/BaianoNuclear #'
+print '# https://github.com/Kripto-Sec   #'
 print '#   :)                            #'
 print '###################################'
 
