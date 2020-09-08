@@ -10,6 +10,6 @@ Para encriptar um text use -e
 ```
 python Cifra-de-Cesar.py -e "seu texto para encriptar"
 ```
-Para descriptar um text use -d
+Para desencriptar um texto use -d
 ```
-python Cifra-de-Cesar.py -d "seu texto para descriptar"
+python Cifra-de-Cesar.py -d "seu texto para desencriptar"
